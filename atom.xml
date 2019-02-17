@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xudafeng.xyz/"/>
-  <updated>2019-02-16T14:25:40.870Z</updated>
+  <updated>2019-02-16T14:24:36.250Z</updated>
   <id>http://xudafeng.xyz/</id>
   
   <author>
@@ -15,30 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hexo个人博客文章长度显示设置</title>
-    <link href="http://xudafeng.xyz/2019/02/16/2019-2-16(2)/"/>
-    <id>http://xudafeng.xyz/2019/02/16/2019-2-16(2)/</id>
-    <published>2019-02-15T16:00:00.000Z</published>
-    <updated>2019-02-16T14:25:40.870Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Hexo个人博客文章长度显示设置"><a href="#Hexo个人博客文章长度显示设置" class="headerlink" title="Hexo个人博客文章长度显示设置"></a>Hexo个人博客文章长度显示设置</h2><blockquote><p><strong>站点配置文件：Hexo文件下的config；</strong><br><strong>主题配置文件：themes文件下的config</strong></p></blockquote><p>本篇文章以next主题为例，首先找到主题配置文件，双击打开后在左侧搜索框内搜索 <strong>Automatically Excerpt</strong> ，将 <strong>auto_excerpt</strong> 下的 <strong>enable</strong> 所对应的 <strong>false</strong> 改为 <strong>true</strong> 即可，下面的 length 为长度设置，可以手动设置文章显示的字符数。</p><p>修改过后 再次进入hexo，按照流程</p><ol><li>hexo clean</li><li>hexo g</li><li>hexo d</li></ol><p>这样文章就会按照我们设置的长度显示，在没有点开的情况下文章显示“阅读全文”，点击后进入正文。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;Hexo个人博客文章长度显示设置&quot;&gt;&lt;a href=&quot;#Hexo个人博客文章长度显示设置&quot; class=&quot;headerlink&quot; title=&quot;Hexo个人博客文章长度显示设置&quot;&gt;&lt;/a&gt;Hexo个人博客文章长度显示设置&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;
-      
-    
-    </summary>
-    
-      <category term="编程" scheme="http://xudafeng.xyz/categories/%E7%BC%96%E7%A8%8B/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>编程也许是一种修身养性的爱好</title>
@@ -55,6 +31,30 @@
       
         &lt;h2 id=&quot;编程也许是一种修身养性的爱好&quot;&gt;&lt;a href=&quot;#编程也许是一种修身养性的爱好&quot; class=&quot;headerlink&quot; title=&quot;编程也许是一种修身养性的爱好&quot;&gt;&lt;/a&gt;编程也许是一种修身养性的爱好&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;编
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="http://xudafeng.xyz/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo个人博客文章长度显示设置</title>
+    <link href="http://xudafeng.xyz/2019/02/16/2019-2-16(2)/"/>
+    <id>http://xudafeng.xyz/2019/02/16/2019-2-16(2)/</id>
+    <published>2019-02-15T16:00:00.000Z</published>
+    <updated>2019-02-16T14:25:40.870Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Hexo个人博客文章长度显示设置"><a href="#Hexo个人博客文章长度显示设置" class="headerlink" title="Hexo个人博客文章长度显示设置"></a>Hexo个人博客文章长度显示设置</h2><blockquote><p><strong>站点配置文件：Hexo文件下的config；</strong><br><strong>主题配置文件：themes文件下的config</strong></p></blockquote><p>本篇文章以next主题为例，首先找到主题配置文件，双击打开后在左侧搜索框内搜索 <strong>Automatically Excerpt</strong> ，将 <strong>auto_excerpt</strong> 下的 <strong>enable</strong> 所对应的 <strong>false</strong> 改为 <strong>true</strong> 即可，下面的 length 为长度设置，可以手动设置文章显示的字符数。</p><p>修改过后 再次进入hexo，按照流程</p><ol><li>hexo clean</li><li>hexo g</li><li>hexo d</li></ol><p>这样文章就会按照我们设置的长度显示，在没有点开的情况下文章显示“阅读全文”，点击后进入正文。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Hexo个人博客文章长度显示设置&quot;&gt;&lt;a href=&quot;#Hexo个人博客文章长度显示设置&quot; class=&quot;headerlink&quot; title=&quot;Hexo个人博客文章长度显示设置&quot;&gt;&lt;/a&gt;Hexo个人博客文章长度显示设置&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;
       
     
     </summary>
