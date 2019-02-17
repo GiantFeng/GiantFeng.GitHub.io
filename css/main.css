@@ -2010,7 +2010,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b5737a;
+  background: #ff0aff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2892,6 +2892,10 @@ hr {
 .post-button {
   margin-top: 20px;
   text-align: left;
+}
+.post-button .posts-expand .post {
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 .post-button a {
   padding: 0;
