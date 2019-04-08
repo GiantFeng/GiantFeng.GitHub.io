@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xudafeng.xyz/"/>
-  <updated>2019-04-08T12:33:58.117Z</updated>
+  <updated>2019-04-08T12:38:14.575Z</updated>
   <id>http://xudafeng.xyz/</id>
   
   <author>
@@ -21,15 +21,16 @@
     <link href="http://xudafeng.xyz/2019/04/06/2019-4-6/"/>
     <id>http://xudafeng.xyz/2019/04/06/2019-4-6/</id>
     <published>2019-04-05T16:00:00.000Z</published>
-    <updated>2019-04-08T12:33:58.117Z</updated>
+    <updated>2019-04-08T12:38:14.575Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="产品人你的事业线够“S”吗？"><a href="#产品人你的事业线够“S”吗？" class="headerlink" title="产品人你的事业线够“S”吗？"></a>产品人你的事业线够“S”吗？</h2><font face="微软雅黑" size="4">咳咳！本着对自己以后的职业负责，决定新开一个板块，尽量做到每周更新一篇与互联网产品相关的文章，说实话，我的博客在我成名之前估计不会有人来看的，哈哈哈，也许我一辈子也不会拥有一千万粉丝，就当是我自说自话吧，为了以后的辉煌，写点东西还是有必要的。</font><font face="微软雅黑" size="4"><strong>名词解释：MAU（monthly active users）——月活跃用户数。PMF（product-market fit) ——产品与市场匹配。</strong></font><font face="微软雅黑" size="4">说说今天学到的一个知识点，算是一个读书笔记，今天所有内容都是基于车马老师《首席产品官》这本书来说的。</font><blockquote><font face="微软雅黑" size="4"><strong>s曲线规律，互联网产品的生命期s曲线规律简称为s曲线规律。</strong></font></blockquote><font face="微软雅黑" size="4">一共分为四个时期，初探期，高增长期，高原期，以及快衰期，对比了一下传统产品的生命s曲线，虽然说经历的时期大致相似，但是曲线的变化率还是互联网产品更大一些，这可能更互联网产品本身特点有关，比如在初探期，互联网产品进入市场需要通过产品了解用户的行为习惯以及具体使用需求，这个阶段核心还是在探索上面，通过用户反馈及时调整产品规划，作者指出这个时期要让产品和市场匹PMF。之后进入高增长期，产品本身的核心竞争力对于用户的吸引导致了快速的传播，同时高效的运营使得产品在这一时期可以获得可观的用户量，同时作者也指出，为产品打造核心竞争力也就是产品的内增长力是产品经理价值所在。</font><blockquote><font face="微软雅黑" size="4"><strong>为产品打造内增长力，是产品经理最值钱的地方，也是判断产品经理层次的主要依据之一。</strong></font></blockquote><font face="微软雅黑" size="4">后面的高原期，以及快衰期也就很好理解了，这也很能体现互联网产品的特点。前段时间非常热门的子弹短信就是一个很有代表性的例子，我想，子弹短信应该都没有达到高原期，因此不能算是一个成功的产品同时他也不符合s型曲线，反过来看，拥有s型曲线的产品应该就是一个好产品，因为它有一个较为完整的生命周期。同时作者指出在高原期是产品进行商业化的关键时期，免费的产品这个时候要考虑如何进行收费功能的设计，既然产品走到了这个阶段应该是为公司获得利益的时候了，用户习惯已经养成要在这样的基础之上将其商业价值进行体现。</font><font face="微软雅黑" size="4">后面作者用qq的s曲线来进行了实例讲解。作者选取的是qq的MAU，一个月中至少登陆一次的qq账户，数据的跨度是从2003年到2017年第三季度，这个时间跨度就相当可以了！从数据中可以看出qq这款产品在2017年下半年已经处于高原期的末尾了，也就是说qq这款产品即将进入衰退期，或者说现在已经是衰退期了。之后作者也指出产品所处的生命周期也影响着产品人的工作状况，我顿时想到，以后面试一家公司应该先看一下这个公司核心产品的生命周期，如果是已经进入衰退期的产品不去加入也罢。顺应产品生命周期来做事情确实是一个好方法，在对应的阶段做对应的事。</font><font face="微软雅黑" size="4">最后作者留了两个章节思考问题，我准备结合所学习到的产品生命周期s曲线的知识来回答一下下面是他提出的两个问题：</font><font face="微软雅黑" size="4">1. 在你用过的产品中，你认为目前哪个产品处于快衰期？</font><br><font face="微软雅黑" size="4">2. 因为原先的主力产品进入快衰期，又没有好的产品接续，从而使整个公司衰退的互联网公司，除了Yahoo、搜狐还有哪些？</font><p><img src="/2019/04/06/2019-4-6/BLOG\hexo\public\images\55.jpg" alt=""></p><font face="微软雅黑" size="4">我先来回答第一个问题，第二个问题有时间再来写吧。首选聊天宝，因为它上线的时间比较短我相对来说好拿数据，再有一点原因就是这款产品前段时间比较火，趁着仅有的余温拿来说说。这款app前段时间应该是被大量的产品人测评过，我就不多说了吧。体验者居多实际活跃用户应该没有多少，我只能拿到一些下载量的数据，具体活跃度每周找到相关数据。所以从下载量来看这款产品确实是在快衰期了，或者说它没有高原期，是一个起伏不定的折线图。</font><p><img src="/2019/04/06/2019-4-6/BLOG\hexo\public\images\53.png" alt=""></p><p>​                                                 <!--图片来自七麦网--></p><font face="微软雅黑" size="4">撇开罗永浩的流量不说，单从产品的角度来讲，这款产品创意和想法值得肯定但是产品细节上还是要在打磨一下，包括解决的痛点，使用的具体场景都是值得推敲的，其实是一款不完整的产品。用户下载体验的较多，具体使用的确实寥寥无几。并且，通过百度指数可以看出，这款产品的每次搜索峰值都与罗永浩本人以及锤子手机有着相关性，而一旦这些话题没有了热度产品自身就经不起把玩了。</font><p><img src="/2019/04/06/2019-4-6/BLOG\hexo\public\images\54.png" alt=""></p><p>​                                                 <!--图片来自百度指数--></p>]]></content>
+    <content type="html"><![CDATA[<p>##产品人你的事业线够“S”吗？</p><font face="微软雅黑" size="4">咳咳！本着对自己以后的职业负责，决定新开一个板块，尽量做到每周更新一篇与互联网产品相关的文章，说实话，我的博客在我成名之前估计不会有人来看的，哈哈哈，也许我一辈子也不会拥有一千万粉丝，就当是我自说自话吧，为了以后的辉煌，写点东西还是有必要的。</font><font face="微软雅黑" size="4"><strong>名词解释：MAU（monthly active users）——月活跃用户数。PMF（product-market fit) ——产品与市场匹配。</strong></font><font face="微软雅黑" size="4">说说今天学到的一个知识点，算是一个读书笔记，今天所有内容都是基于车马老师《首席产品官》这本书来说的。</font><blockquote><font face="微软雅黑" size="4"><strong>s曲线规律，互联网产品的生命期s曲线规律简称为s曲线规律。</strong></font></blockquote><font face="微软雅黑" size="4">一共分为四个时期，初探期，高增长期，高原期，以及快衰期，对比了一下传统产品的生命s曲线，虽然说经历的时期大致相似，但是曲线的变化率还是互联网产品更大一些，这可能更互联网产品本身特点有关，比如在初探期，互联网产品进入市场需要通过产品了解用户的行为习惯以及具体使用需求，这个阶段核心还是在探索上面，通过用户反馈及时调整产品规划，作者指出这个时期要让产品和市场匹PMF。之后进入高增长期，产品本身的核心竞争力对于用户的吸引导致了快速的传播，同时高效的运营使得产品在这一时期可以获得可观的用户量，同时作者也指出，为产品打造核心竞争力也就是产品的内增长力是产品经理价值所在。</font><blockquote><font face="微软雅黑" size="4"><strong>为产品打造内增长力，是产品经理最值钱的地方，也是判断产品经理层次的主要依据之一。</strong></font></blockquote><font face="微软雅黑" size="4">后面的高原期，以及快衰期也就很好理解了，这也很能体现互联网产品的特点。前段时间非常热门的子弹短信就是一个很有代表性的例子，我想，子弹短信应该都没有达到高原期，因此不能算是一个成功的产品同时他也不符合s型曲线，反过来看，拥有s型曲线的产品应该就是一个好产品，因为它有一个较为完整的生命周期。同时作者指出在高原期是产品进行商业化的关键时期，免费的产品这个时候要考虑如何进行收费功能的设计，既然产品走到了这个阶段应该是为公司获得利益的时候了，用户习惯已经养成要在这样的基础之上将其商业价值进行体现。</font><font face="微软雅黑" size="4">后面作者用qq的s曲线来进行了实例讲解。作者选取的是qq的MAU，一个月中至少登陆一次的qq账户，数据的跨度是从2003年到2017年第三季度，这个时间跨度就相当可以了！从数据中可以看出qq这款产品在2017年下半年已经处于高原期的末尾了，也就是说qq这款产品即将进入衰退期，或者说现在已经是衰退期了。之后作者也指出产品所处的生命周期也影响着产品人的工作状况，我顿时想到，以后面试一家公司应该先看一下这个公司核心产品的生命周期，如果是已经进入衰退期的产品不去加入也罢。顺应产品生命周期来做事情确实是一个好方法，在对应的阶段做对应的事。</font><font face="微软雅黑" size="4">最后作者留了两个章节思考问题，我准备结合所学习到的产品生命周期s曲线的知识来回答一下下面是他提出的两个问题：</font><font face="微软雅黑" size="4">1. 在你用过的产品中，你认为目前哪个产品处于快衰期？</font><br><font face="微软雅黑" size="4">2. 因为原先的主力产品进入快衰期，又没有好的产品接续，从而使整个公司衰退的互联网公司，除了Yahoo、搜狐还有哪些？</font><p><img src="/images/55.jpg" alt="Alt text"></p><font face="微软雅黑" size="4">我先来回答第一个问题，第二个问题有时间再来写吧。首选聊天宝，因为它上线的时间比较短我相对来说好拿数据，再有一点原因就是这款产品前段时间比较火，趁着仅有的余温拿来说说。这款app前段时间应该是被大量的产品人测评过，我就不多说了吧。体验者居多实际活跃用户应该没有多少，我只能拿到一些下载量的数据，具体活跃度每周找到相关数据。所以从下载量来看这款产品确实是在快衰期了，或者说它没有高原期，是一个起伏不定的折线图。</font><p><img src="/images/53.jpg" alt="Alt text"></p><p>​                                                 <!--图片来自七麦网--></p><font face="微软雅黑" size="4">撇开罗永浩的流量不说，单从产品的角度来讲，这款产品创意和想法值得肯定但是产品细节上还是要在打磨一下，包括解决的痛点，使用的具体场景都是值得推敲的，其实是一款不完整的产品。用户下载体验的较多，具体使用的确实寥寥无几。并且，通过百度指数可以看出，这款产品的每次搜索峰值都与罗永浩本人以及锤子手机有着相关性，而一旦这些话题没有了热度产品自身就经不起把玩了。</font><p><img src="/images/54.jpg" alt="Alt text"></p><p>​                                                 <!--图片来自百度指数--></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;产品人你的事业线够“S”吗？&quot;&gt;&lt;a href=&quot;#产品人你的事业线够“S”吗？&quot; class=&quot;headerlink&quot; title=&quot;产品人你的事业线够“S”吗？&quot;&gt;&lt;/a&gt;产品人你的事业线够“S”吗？&lt;/h2&gt;&lt;font face=&quot;微软雅黑&quot; size=&quot;4
+        &lt;p&gt;##产品人你的事业线够“S”吗？&lt;/p&gt;
+&lt;font face=&quot;微软雅黑&quot; size=&quot;4&quot;&gt;咳咳！本着对自己以后的职业负责，决定新开一个板块，尽量做到每周更新一篇与互联网产品相关的文章，说实话，我的博客在我成名之前估计不会有人来看的，哈哈哈，也许我一辈子也不会拥有一千万
       
     
     </summary>
@@ -189,30 +190,6 @@
   </entry>
   
   <entry>
-    <title>Hexo个人博客文章长度显示设置</title>
-    <link href="http://xudafeng.xyz/2019/02/16/2019-2-16(2)/"/>
-    <id>http://xudafeng.xyz/2019/02/16/2019-2-16(2)/</id>
-    <published>2019-02-15T16:00:00.000Z</published>
-    <updated>2019-02-16T14:25:40.870Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Hexo个人博客文章长度显示设置"><a href="#Hexo个人博客文章长度显示设置" class="headerlink" title="Hexo个人博客文章长度显示设置"></a>Hexo个人博客文章长度显示设置</h2><blockquote><p><strong>站点配置文件：Hexo文件下的config；</strong><br><strong>主题配置文件：themes文件下的config</strong></p></blockquote><p>本篇文章以next主题为例，首先找到主题配置文件，双击打开后在左侧搜索框内搜索 <strong>Automatically Excerpt</strong> ，将 <strong>auto_excerpt</strong> 下的 <strong>enable</strong> 所对应的 <strong>false</strong> 改为 <strong>true</strong> 即可，下面的 length 为长度设置，可以手动设置文章显示的字符数。</p><p>修改过后 再次进入hexo，按照流程</p><ol><li>hexo clean</li><li>hexo g</li><li>hexo d</li></ol><p>这样文章就会按照我们设置的长度显示，在没有点开的情况下文章显示“阅读全文”，点击后进入正文。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;Hexo个人博客文章长度显示设置&quot;&gt;&lt;a href=&quot;#Hexo个人博客文章长度显示设置&quot; class=&quot;headerlink&quot; title=&quot;Hexo个人博客文章长度显示设置&quot;&gt;&lt;/a&gt;Hexo个人博客文章长度显示设置&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;
-      
-    
-    </summary>
-    
-      <category term="编程" scheme="http://xudafeng.xyz/categories/%E7%BC%96%E7%A8%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>编程也许是一种修身养性的爱好</title>
     <link href="http://xudafeng.xyz/2019/02/16/2019-2-16/"/>
     <id>http://xudafeng.xyz/2019/02/16/2019-2-16/</id>
@@ -227,6 +204,30 @@
       
         &lt;h2 id=&quot;编程也许是一种修身养性的爱好&quot;&gt;&lt;a href=&quot;#编程也许是一种修身养性的爱好&quot; class=&quot;headerlink&quot; title=&quot;编程也许是一种修身养性的爱好&quot;&gt;&lt;/a&gt;编程也许是一种修身养性的爱好&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;编
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="http://xudafeng.xyz/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo个人博客文章长度显示设置</title>
+    <link href="http://xudafeng.xyz/2019/02/16/2019-2-16(2)/"/>
+    <id>http://xudafeng.xyz/2019/02/16/2019-2-16(2)/</id>
+    <published>2019-02-15T16:00:00.000Z</published>
+    <updated>2019-02-16T14:25:40.870Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Hexo个人博客文章长度显示设置"><a href="#Hexo个人博客文章长度显示设置" class="headerlink" title="Hexo个人博客文章长度显示设置"></a>Hexo个人博客文章长度显示设置</h2><blockquote><p><strong>站点配置文件：Hexo文件下的config；</strong><br><strong>主题配置文件：themes文件下的config</strong></p></blockquote><p>本篇文章以next主题为例，首先找到主题配置文件，双击打开后在左侧搜索框内搜索 <strong>Automatically Excerpt</strong> ，将 <strong>auto_excerpt</strong> 下的 <strong>enable</strong> 所对应的 <strong>false</strong> 改为 <strong>true</strong> 即可，下面的 length 为长度设置，可以手动设置文章显示的字符数。</p><p>修改过后 再次进入hexo，按照流程</p><ol><li>hexo clean</li><li>hexo g</li><li>hexo d</li></ol><p>这样文章就会按照我们设置的长度显示，在没有点开的情况下文章显示“阅读全文”，点击后进入正文。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Hexo个人博客文章长度显示设置&quot;&gt;&lt;a href=&quot;#Hexo个人博客文章长度显示设置&quot; class=&quot;headerlink&quot; title=&quot;Hexo个人博客文章长度显示设置&quot;&gt;&lt;/a&gt;Hexo个人博客文章长度显示设置&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;
       
     
     </summary>
