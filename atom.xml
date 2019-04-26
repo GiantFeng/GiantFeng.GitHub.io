@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xudafeng.xyz/"/>
-  <updated>2019-04-22T13:32:42.134Z</updated>
+  <updated>2019-04-24T13:08:30.747Z</updated>
   <id>http://xudafeng.xyz/</id>
   
   <author>
@@ -17,25 +17,51 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>别人有BAT，你只有PPT</title>
-    <link href="http://xudafeng.xyz/2019/04/22/2019-4-22/"/>
-    <id>http://xudafeng.xyz/2019/04/22/2019-4-22/</id>
-    <published>2019-04-21T16:00:00.000Z</published>
-    <updated>2019-04-22T13:32:42.134Z</updated>
+    <title></title>
+    <link href="http://xudafeng.xyz/2019/04/24/2019-4-24%EF%BC%881%EF%BC%89/"/>
+    <id>http://xudafeng.xyz/2019/04/24/2019-4-24（1）/</id>
+    <published>2019-04-24T12:56:13.578Z</published>
+    <updated>2019-04-24T13:08:30.747Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="别人有BAT，你只有PPT"><a href="#别人有BAT，你只有PPT" class="headerlink" title="别人有BAT，你只有PPT"></a>别人有BAT，你只有PPT</h2><font face="微软雅黑" size="4">写在2019年忙碌的4月，忙着参加开题答辩，被老师一通乱怼，我至今都不明白老师口中的：在5g成熟时，中国满大街都是无人驾驶汽车这一说法？5g成熟指日可待，无人驾驶我自认为遥遥无期，是他错了，还是我错了，还是我们都错了？还有就是中国车联网走在世界前沿这个说法，怎么讲，我觉得还是国外更先进一些，尤其是一些欧盟国家，比如德国、丹麦现在的maas技术，中国现在还没有落地，而maas技术不仅仅车联网而是多模式的交通出行，车联网只是其中一环。特斯拉貌似也是美国的吧，google无人驾驶汽车也是美国的吧，而且比我们出现的早，所以我有点不理解中国车联网技术走在世界前沿而且北方比南方厉害这是怎么讲，厉害是什么意思？技术还是落地？难道雄安新区的例子可以全国推行？上海落后又是怎么讲，我记得上汽和阿里是国内最先布局车联网的，荣威那款marvel x5不就是合作的产物吗？好了不说这些了，说说offer吧。</font><br><font face="微软雅黑" size="4">第一次参加春招，总结下来就是两个字：shit 说我自己呢，没有定位清楚，而且准备也不足。做了很久的井底之蛙，看到周围的牛蛙才知道自己是多么的渺小，做梦要一步登天，还是先脚踏实地的走路吧，天登不成，蛋也扯了。既然选择了这条路，就一直走到黑吧！</font>]]></content>
+    <content type="html"><![CDATA[<p>版本规划</p><p>版本规划是什么？</p><p>如何进行版本规划？</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;别人有BAT，你只有PPT&quot;&gt;&lt;a href=&quot;#别人有BAT，你只有PPT&quot; class=&quot;headerlink&quot; title=&quot;别人有BAT，你只有PPT&quot;&gt;&lt;/a&gt;别人有BAT，你只有PPT&lt;/h2&gt;&lt;font face=&quot;微软雅黑&quot; size=&quot;4&quot;&gt;写在
+        &lt;p&gt;版本规划&lt;/p&gt;
+&lt;p&gt;版本规划是什么？&lt;/p&gt;
+&lt;p&gt;如何进行版本规划？&lt;/p&gt;
+
       
     
     </summary>
     
-      <category term="杂记" scheme="http://xudafeng.xyz/categories/%E6%9D%82%E8%AE%B0/"/>
     
+  </entry>
+  
+  <entry>
+    <title>需求管理你的核心竞争力！（一）</title>
+    <link href="http://xudafeng.xyz/2019/04/23/2019-4-23/"/>
+    <id>http://xudafeng.xyz/2019/04/23/2019-4-23/</id>
+    <published>2019-04-22T16:00:00.000Z</published>
+    <updated>2019-04-26T04:02:02.873Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="需求管理你的核心竞争力！（一）"><a href="#需求管理你的核心竞争力！（一）" class="headerlink" title="需求管理你的核心竞争力！（一）"></a>需求管理你的核心竞争力！（一）</h2><!--从今天开始我所有的图全部手绘，原图都是书中的图我自己把它画一遍。都忘了自己是手绘老师了-_-||--><font face="微软雅黑" size="4">如果还记得车马老师的产品新人能力杠铃，那最重要的就是需求管理和版本规划了。我到今天也是觉得产品这个岗位很多工作大家其实都可以做的，甚至别人比你分析的更加详细，那究竟什么是我们的核心竞争力呢？比如之前的用户调查，不仅产品会做，运营、开发、ui等等都会做，分析也会分析，没有太大的技术含量。<strong>需求管理和版本规划就不同了，这才是产品人的核心竞争力。</strong><br><br><img src="/images/57.jpg" alt="Alt text"><br><br><br><br>- ### 什么是需求管理？<br><br><font face="微软雅黑" size="4">一句话，就是<strong>你要清楚什么要做，什么不做，什么立刻做，什么以后做，把需求做加减法，然后再排优先级，这就是需求管理。</strong>我们知道了需求是什么[参考这篇文章，<a href="http://xudafeng.xyz/2019/04/20/2019-4-9/">坐下，我们聊聊需求</a>]，然后就要了解需求的分类了，<strong>需求可以分为功能性需求以及非功能需求</strong>。<strong>功能性需求就是关于具体功能的需求，最终用户对此有明显感知。非功能性需求就是那些除了功能性需求之外的需求，包括安全性、可靠性、互操作性、健壮性、易用性等等，它往往具有跨产品性，就是说很多产品都有的共性。</strong></font><blockquote><p>需求管理是一个有多环节的过程，随着需求管理的推进，需求也在一步步变化。</p></blockquote><font face="微软雅黑" size="4">从用户提出的原需求再到产品角度的产品需求再细分到版本需求，这是一个由少变多再变少的过程，减少的是无法立即实现的想法，增加的是用户没有想到的惊喜。就像车马老师的图一样，从左往右，<strong>从原需求开始，经过加工汇聚成产品需求，再对产品需求进行释放得到了一个个版本需求。产品人根据一个个版本需求进行版本规划，技术团队相应地进行一个个版本开发。</strong></font><p><img src="/images/56.jpg" alt="Alt text"></p><ul><li><h3 id="需求管理的内容是什么？"><a href="#需求管理的内容是什么？" class="headerlink" title="需求管理的内容是什么？"></a>需求管理的内容是什么？</h3></li></ul><font face="微软雅黑" size="4"><strong>需求管理就是以用户的原需求为对象，以对需求项的全面分析为基础，综合考虑市场价值、实施成本等相关因素，对需求进行分别处理</strong>。落实下来就是：</font><ol><li><font face="微软雅黑" size="4">对需求进行取舍，决定哪些需求在产品中予以满足，哪些需求放弃，产品不需要也不可能满足用户所有的需求。</font></li></ol><ol start="2"><li><font face="微软雅黑" size="4">对需求进行拆分、合并、转化、提升。</font></li></ol><ol start="3"><li><font face="微软雅黑" size="4">为需求项排优先级。</font></li></ol><ol start="4"><li><font face="微软雅黑" size="4">对需求项分批释放。</font></li></ol><ul><li><h3 id="如何进行需求管理？"><a href="#如何进行需求管理？" class="headerlink" title="如何进行需求管理？"></a>如何进行需求管理？</h3></li></ul><blockquote><p>对原需求进行管理，形成产品需求池</p></blockquote><ol><li><font face="微软雅黑" size="4">学会做减法。断舍离在这里就派上用场了，用户的需求有些是违背行业规律的，有些会带来商业上的损失，有些与公司整体战略不符合等等，这些需求就要不予回应。</font></li><li><font face="微软雅黑" size="4">需求分解、合并、转化。总之是一个综合考量的过程，经过删减、转化、合并的需求都汇总到了需求池里面，然后由产品经理分批次释放。</font></li></ol><blockquote><p>主动蒸发需求池，清理掉部分需求</p></blockquote><font face="微软雅黑" size="4">主动清理掉部分不会跟随版本迭代的需求，也就是我们说的砍需求。产品需求要跟随产品生命周期进行调整，有些可能可以实现也在计划中，但出于种种原因最后还是放弃了，这些需求是需要定期清理的。</font><blockquote><p>对需求池分批释放，形成版本需求</p></blockquote><font face="微软雅黑" size="4">等同于之前谈到的概念，版本需求也是要进行多维度的考量，比如需求的优先级、需求之间的关联关系、技术的实现难度、时间以及运营节奏等等。</font><font face="微软雅黑" size="4">后面作者又从需求点开始探讨需求的管理，梳理需求点，作者给出了适合产品新人的需求点管理卡片。下图就是，可以说是相当的nice了。真的很喜欢这种把东西安调理整理起来的做法，干干净净，一目了然。</font><p><img src="/images/59.png" alt="Alt text"></p><ul><li><h4 id="如何对需求排优先级？"><a href="#如何对需求排优先级？" class="headerlink" title="如何对需求排优先级？"></a>如何对需求排优先级？</h4><font face="微软雅黑" size="4">判断一个需求点的优先级一般是从三个方向进行：与战略的相关性；对用户的影响；技术实现。</font></li></ul><ol><li><font face="微软雅黑" size="4">判断与战略密切程度。</font></li><li><font face="微软雅黑" size="4">判断影响面和影响程度。涉及用户多的，跟核心用户利益相关的，不做会有严重问题的需求点，都是要优先满足的。</font></li><li><font face="微软雅黑" size="4">评估实现难度和成本。人力、金钱、时间成本都要考虑。</font></li></ol></font>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;需求管理你的核心竞争力！（一）&quot;&gt;&lt;a href=&quot;#需求管理你的核心竞争力！（一）&quot; class=&quot;headerlink&quot; title=&quot;需求管理你的核心竞争力！（一）&quot;&gt;&lt;/a&gt;需求管理你的核心竞争力！（一）&lt;/h2&gt;&lt;!--从今天开始我所有的图全部手绘，原图
+      
+    
+    </summary>
+    
+      <category term="产品" scheme="http://xudafeng.xyz/categories/%E4%BA%A7%E5%93%81/"/>
+    
+    
+      <category term="产品" scheme="http://xudafeng.xyz/tags/%E4%BA%A7%E5%93%81/"/>
     
   </entry>
   
@@ -111,33 +137,6 @@
     
     
       <category term="读书笔记 吴军博士" scheme="http://xudafeng.xyz/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%90%B4%E5%86%9B%E5%8D%9A%E5%A3%AB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>风吹江南</title>
-    <link href="http://xudafeng.xyz/2019/03/28/2019-3-28/"/>
-    <id>http://xudafeng.xyz/2019/03/28/2019-3-28/</id>
-    <published>2019-03-27T16:00:00.000Z</published>
-    <updated>2019-03-30T09:35:49.836Z</updated>
-    
-    <content type="html"><![CDATA[<p>全球对银行的监管都有核心资本充足率的指标，通过资本约束风险加权资产的配置，使得银行无法进行不受约束的扩张。</p><p>金融是资金融通的行为。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;全球对银行的监管都有核心资本充足率的指标，通过资本约束风险加权资产的配置，使得银行无法进行不受约束的扩张。&lt;/p&gt;
-&lt;p&gt;金融是资金融通的行为。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="杂记" scheme="http://xudafeng.xyz/categories/%E6%9D%82%E8%AE%B0/"/>
-    
-    
-      <category term="读书笔记" scheme="http://xudafeng.xyz/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
